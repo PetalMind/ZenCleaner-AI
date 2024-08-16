@@ -11,7 +11,7 @@ Ten projekt zawiera narzędzia do klasyfikacji plików na podstawie ich atrybut�
 ## Instalacja
 1. Sklonuj repozytorium na swoje lokalne środowisko:
     ```bash
-    git clone https://github.com/twoje-repozytorium/file-classifier.git
+    git clone https://github.com/PetalMind/ZenCleaner-AI.git
     ```
 2. Przejdź do katalogu projektu:
     ```bash
