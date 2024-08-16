@@ -1,8 +1,8 @@
 
-# CleanerAI Project
+# ZenCleaner-AI Project
 
 ## Overview
-CleanerAI to projekt umożliwiający klasyfikację plików na podstawie ich atrybutów, takich jak rozmiar, rozszerzenie itp. Projekt składa się z kilku modułów, które umożliwiają zbieranie danych, ich wstępne przetwarzanie, trenowanie modelu klasyfikującego oraz ocenę jego skuteczności. Projekt jest szczególnie użyteczny do segregacji plików na potrzebne i śmieciowe.
+ZenCleaner-AI to projekt umożliwiający klasyfikację plików na podstawie ich atrybutów, takich jak rozmiar, rozszerzenie itp. Projekt składa się z kilku modułów, które umożliwiają zbieranie danych, ich wstępne przetwarzanie, trenowanie modelu klasyfikującego oraz ocenę jego skuteczności. Projekt jest szczególnie użyteczny do segregacji plików na potrzebne i śmieciowe.
 
 ## Wymagania
 - Python 3.8 lub nowszy
