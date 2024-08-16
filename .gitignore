@@ -1,0 +1,66 @@
+# Ignorowanie plików systemowych
+.DS_Store
+Thumbs.db
+
+# Ignorowanie środowisk wirtualnych
+venv/
+env/
+.venv/
+.env/
+
+# Ignorowanie plików Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignorowanie plików Jupyter Notebook z danymi tymczasowymi
+.notebook_checkpoints/
+
+# Ignorowanie plików konfiguracyjnych IDE
+.vscode/
+.idea/
+*.swp
+
+# Ignorowanie plików i katalogów związanych z danymi
+data/junk_files/
+data/necessary_files/
+data/file_data.csv
+
+# Ignorowanie zapisanych modeli
+models/*.pkl
+
+# Ignorowanie logów, raportów i wyników testów
+*.log
+*.out
+*.tmp
+*.csv
+
+# Ignorowanie plików instalacyjnych
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Ignorowanie plików tymczasowych
+*.bak
+*.tmp
+*.~undo-tree~
+*.swo
+*.swp
+*~
+*.tmp
+*.temp
+*.backup
+
+# Ignorowanie plików związanych z pakietami Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignorowanie plików konfiguracyjnych
+*.cfg
+*.ini
+
+# Ignorowanie tokenów i kluczy prywatnych (nigdy nie powinny trafiać do repozytorium)
+*.pem
+*.key
